@@ -479,7 +479,7 @@ section {
   top: 0;
   right: -110px;
   z-index: var(--i-lower);
-  background: url("../img/hero-img.webp") no-repeat center/cover;
+  background: url("../img/hero-img.png") no-repeat center/cover;
   width: 60rem;
   height: 78rem;
 }
@@ -489,7 +489,7 @@ section {
   position: absolute;
   top: 0;
   left: 45%;
-  background: url("../img/hero-icon.webp") no-repeat center/contain;
+  background: url("../img/hero-icon.png") no-repeat center/contain;
   width: 40px;
   height: 202px;
 }
@@ -1480,7 +1480,7 @@ section {
   width: 100%;
   min-height: 100vh;
   z-index: 999;
-  background: url("../img/modal-bg.webp") no-repeat center/cover;
+  background: url("../img/modal-bg.png") no-repeat center/cover;
   display: flex;
   justify-content: center;
   align-items: center;
